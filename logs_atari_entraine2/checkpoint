@@ -1,6 +1,0 @@
-model_checkpoint_path: "atari-dqn-16974000"
-all_model_checkpoint_paths: "atari-dqn-16970000"
-all_model_checkpoint_paths: "atari-dqn-16971000"
-all_model_checkpoint_paths: "atari-dqn-16972000"
-all_model_checkpoint_paths: "atari-dqn-16973000"
-all_model_checkpoint_paths: "atari-dqn-16974000"
